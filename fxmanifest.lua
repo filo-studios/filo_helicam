@@ -6,7 +6,7 @@ name 'filo_helicam'
 original_author 'ZeroFour04'
 author 'filo studios.'
 description 'A FiveM helicoper camera script'
-discord 'https://discord.gg/bErPEKvRXg'
+discord 'https://discord.gg/ReEE9HgA4c'
 
 version '1.0.1'
 
